@@ -3,38 +3,31 @@ import { Badge } from "@/components/ui/badge"
 
 const projects = [
   {
-    title: "NetWatch",
+    title: "Personal Homelab",
     description:
-      "A real-time network monitoring dashboard that visualizes traffic flow, detects anomalies, and alerts on suspicious activity using packet analysis and SNMP polling.",
-    tags: ["Python", "Scapy", "SNMP", "React", "WebSockets"],
+      "A self hosted network comprised that I use to sharpen my skills. I used Proxmox to host my services and virtual machines with various networking equipment to support it.",
+    tags: ["Proxmox", "Firewalls", "Routing", "Switches", "Proxies"],
     link: "#",
   },
   {
-    title: "SubnetArchitect",
+    title: "CCDC Lab Capstone",
     description:
-      "A visual VLAN and subnet planning tool for designing enterprise network topologies. Generates router configs, calculates CIDR ranges, and exports diagrams.",
-    tags: ["TypeScript", "Next.js", "Networking", "CIDR"],
+      "My capstone project at IUS, much like my personal lab, it is built on Proxmox. The purpose was to replicate an enviroment from CCDC to help future students prepare for it.",
+    tags: ["Proxmox", "Virtualization", "Networking", "Blue Team", "Graduation Project"],
     link: "#",
   },
   {
-    title: "VulnScanner",
+    title: "Phishing Simulation Demonstration",
     description:
-      "An automated vulnerability scanner for web applications. Checks for common OWASP Top 10 issues including XSS, SQL injection, and misconfigurations.",
-    tags: ["Python", "Nmap", "OWASP", "Flask"],
+      "A project to demonstrate the dangers of phishing that won an Outstanding Oral Presentation Award. This project exploited a vulnerability in Wordpress that allowed for a RCE shell.",
+    tags: ["CVE-2024-27956", "Python", "PHP", "Red Team", "Remote Code Execution"],
     link: "#",
   },
   {
-    title: "IncidentBot",
+    title: "Meshtastic Node",
     description:
-      "A Discord bot for incident response coordination. Tracks active incidents, assigns roles, logs timelines, and generates post-mortem reports.",
-    tags: ["Node.js", "Discord.js", "PostgreSQL"],
-    link: "#",
-  },
-  {
-    title: "PacketForge",
-    description:
-      "A packet crafting and analysis toolkit for educational use. Lets users construct custom TCP/UDP packets, replay captures, and visualize protocol headers layer by layer.",
-    tags: ["Python", "Scapy", "Wireshark", "TCP/IP"],
+      "A handheld device that demonstrates the capabilities of mesh networking systems over LoRa",
+    tags: ["Heltec V3", "Soldering", "Mesh Networking"],
     link: "#",
   },
 ]
