@@ -38,11 +38,12 @@ export function Hero() {
         <p className="mt-4 max-w-xs leading-relaxed text-muted-foreground">
           {"Securing infrastructure, architecting networks, and building a more resilient digital future \u2014 one packet at a time."}
         </p>
-        
-        // <div className="mt-4 flex items-center gap-2"> 
-        //  <span className="h-2 w-2 rounded-full bg-primary animate-pulse" />
-        //  <span className="font-mono text-xs text-muted-foreground">{"available for internships"}</span>
-       // </div>
+        /*
+         <div className="mt-4 flex items-center gap-2"> 
+          <span className="h-2 w-2 rounded-full bg-primary animate-pulse" />
+          <span className="font-mono text-xs text-muted-foreground">{"available for internships"}</span>
+        </div>
+        */
 
         <nav className="mt-16 hidden lg:block" aria-label="In-page navigation">
           <ul className="flex flex-col gap-4">
