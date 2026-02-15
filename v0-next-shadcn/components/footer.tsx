@@ -1,5 +1,6 @@
 export function Footer() {
   return (
+    /*
     <footer className="pb-12 text-sm leading-relaxed text-muted-foreground">
       <p>
         {"Loosely inspired by "}
@@ -32,5 +33,6 @@ export function Footer() {
         {"."}
       </p>
     </footer>
+    */
   )
 }
