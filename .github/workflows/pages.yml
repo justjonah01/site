@@ -28,13 +28,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies (pnpm)
+      - name: Install (pnpm)
         run: |
           corepack enable
           pnpm install --frozen-lockfile
 
       - name: Build (static export)
         run: pnpm run build
+
+      - name: Disable Jekyll
+        run: touch out/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
