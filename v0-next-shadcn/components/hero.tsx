@@ -13,9 +13,9 @@ const navItems = [
 ]
 
 const socials = [
-  { icon: Github, href: "https://github.com", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-  { icon: Mail, href: "mailto:hello@example.com", label: "Email" },
+  { icon: Github, href: "https://github.com/justjonah01", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/jonah-facer-b2948b2aa/", label: "LinkedIn" },
+  { icon: Mail, href: "mailto:jonahfacer@gmail.com", label: "Email" },
 ]
 
 export function Hero() {
@@ -30,7 +30,7 @@ export function Hero() {
           <span className="font-mono text-xs text-primary tracking-wider">NETWORKING</span>
         </div>
         <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
-          <span className="text-balance">Your Name</span>
+          <span className="text-balance">Jonah Facer</span>
         </h1>
         <h2 className="mt-3 text-lg font-medium tracking-tight text-primary sm:text-xl font-mono">
           {"Cybersecurity & Networking Student"}
@@ -38,10 +38,11 @@ export function Hero() {
         <p className="mt-4 max-w-xs leading-relaxed text-muted-foreground">
           {"Securing infrastructure, architecting networks, and building a more resilient digital future \u2014 one packet at a time."}
         </p>
-        <div className="mt-4 flex items-center gap-2">
-          <span className="h-2 w-2 rounded-full bg-primary animate-pulse" />
-          <span className="font-mono text-xs text-muted-foreground">{"available for internships"}</span>
-        </div>
+        
+        // <div className="mt-4 flex items-center gap-2"> 
+        //  <span className="h-2 w-2 rounded-full bg-primary animate-pulse" />
+        //  <span className="font-mono text-xs text-muted-foreground">{"available for internships"}</span>
+       // </div>
 
         <nav className="mt-16 hidden lg:block" aria-label="In-page navigation">
           <ul className="flex flex-col gap-4">
