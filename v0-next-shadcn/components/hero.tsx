@@ -41,7 +41,7 @@ export function Hero() {
         {/*
          <div className="mt-4 flex items-center gap-2"> 
           <span className="h-2 w-2 rounded-full bg-primary animate-pulse" />
-          <span className="font-mono text-xs text-muted-foreground">{"available for internships"}</span>
+          <span className="font-mono text-xs text-muted-foreground">{"looking for work"}</span>
         </div>
         */}
 
