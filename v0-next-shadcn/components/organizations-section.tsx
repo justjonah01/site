@@ -3,31 +3,31 @@ import { Users, Shield, BookOpen } from "lucide-react"
 
 const organizations = [
   {
-    icon: Shield,
-    name: "Cybersecurity Club",
-    role: "Vice President",
-    period: "2023 \u2014 Present",
+    icon: Users,
+    name: "ISSA Kentuckiana Chapter",
+    role: "Member",
+    period: "2025 \u2014 Present",
     description:
-      "Lead weekly workshops on ethical hacking, organize guest speaker events with industry professionals, and coordinate the club\u2019s CCDC and CTF competition teams.",
-    tags: ["Leadership", "Event Planning", "Mentoring"],
+      "I attend club workshops and presentation given by decorated professionals in the region.",
+    tags: ["Cybersecurity", "Workshop", "Conference"],
   },
   {
     icon: Users,
-    name: "National Cyber League Team",
+    name: "InfraGard",
+    role: "Member",
+    period: "2024 \u2014 Present",
+    description:
+      "Attending education, workshops, and networking events that the Federal Bureau of Investigation provides.",
+    tags: ["Government", "FBI", "Critical Infrastructure"],
+  },
+  {
+    icon: Users,
+    name: "Indiana University Southeast Security Team",
     role: "Team Captain",
     period: "2024 \u2014 Present",
     description:
-      "Organize team practice sessions, assign challenge categories based on member strengths, and lead strategy for team-based competition rounds.",
-    tags: ["Team Lead", "Strategy", "Competition"],
-  },
-  {
-    icon: BookOpen,
-    name: "ACM Student Chapter",
-    role: "Member",
-    period: "2022 \u2014 Present",
-    description:
-      "Participate in study groups, hackathons, and career development workshops. Collaborate with fellow CS students on open-source and research projects.",
-    tags: ["Networking", "Hackathons", "Research"],
+      "I lead IUS\u2019s Security Team through various cybersecurity competions including the Collegiate Cyber Defense Competition (CCDC) and the National Cyber League (NCL).",
+    tags: ["College", "Leadership"],
   },
 ]
 
