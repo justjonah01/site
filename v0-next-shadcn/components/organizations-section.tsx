@@ -15,7 +15,7 @@ const organizations = [
     icon: Users,
     name: "InfraGard",
     role: "Member",
-    period: "2024 \u2014 Present",
+    period: "2026 \u2014 Present",
     description:
       "Attending education, workshops, and networking events that the Federal Bureau of Investigation provides.",
     tags: ["Government", "FBI", "Critical Infrastructure"],
