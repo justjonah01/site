@@ -2,28 +2,28 @@ import { Badge } from "@/components/ui/badge"
 
 const experiences = [
   {
-    period: "2025 \u2014 Present",
-    title: "Security & Network Operations Intern",
+    period: "Dec 2025 \u2014 Present",
+    title: "System Services Co-Op",
     org: "Enterprise IT Team",
     description:
-      "Monitor SIEM alerts and assist with incident triage. Help maintain firewall rulesets, configure switch port security, and manage VLAN segmentation. Contribute to vulnerability assessments and network documentation.",
-    tags: ["SIEM", "Firewall", "VLANs", "Incident Response", "Cisco IOS"],
+      "Assisted with the deployment of application across company devices through SCCM/Intune. Also collaborated with other teams such as NetOps and Facilities.",
+    tags: ["Microsoft Azure", "Proofpoint", "Intune", "SCCM", "Rapid 7"],
   },
   {
-    period: "2024 \u2014 2025",
-    title: "Network Lab Assistant",
-    org: "University IT Department",
+    period: "Dec 2024 \u2014 Dec 2025",
+    title: "Help Desk Co-Op",
+    org: "Samtec",
     description:
-      "Supported campus network infrastructure including troubleshooting connectivity issues, configuring access points, provisioning accounts in Active Directory, and maintaining lab environments with proper security baselines.",
-    tags: ["Networking", "Active Directory", "Wi-Fi", "Troubleshooting", "Linux"],
+      "Worked on imaging company devices and aided users experiencing various tech problems.",
+    tags: ["Customer Service", "Active Directory", "Computer Repair", "Networking Basics", "Security Monitoring"],
   },
   {
-    period: "2023 \u2014 2024",
-    title: "Teaching Assistant \u2014 Intro to Cybersecurity",
-    org: "CS Department",
+    period: "Jun 2024 \u2014 Dec 2024",
+    title: "Information Technology Student Assistant",
+    org: "Indiana University Southeast",
     description:
-      "Helped students understand core security and networking concepts including cryptography, access control, TCP/IP fundamentals, and network protocols. Ran hands-on lab exercises with Wireshark and packet analysis.",
-    tags: ["Mentoring", "Cryptography", "TCP/IP", "Wireshark"],
+      "Helped students and faculty alike with technology needs.",
+    tags: ["Customer Service", "Imaging Computers","Communication"],
   },
 ]
 
