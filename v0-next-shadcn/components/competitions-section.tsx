@@ -5,24 +5,24 @@ const competitions = [
   {
     icon: Trophy,
     name: "CCDC \u2014 Collegiate Cyber Defense Competition",
-    role: "Team Member / Blue Team",
+    role: "Team Captain / Blue Team",
     period: "2024 \u2014 Present",
     description:
-      "Compete in regional CCDC events defending enterprise networks against live red team attackers. Responsible for hardening Linux servers, monitoring network traffic, and responding to injected incidents in real-time.",
-    highlights: ["Regional Qualifier", "Network Defense Lead", "Incident Response"],
+      "Competed in many CCDC events defending enterprise networks against live red team attackers. Responsible for hardening Windows servers, monitoring a Palo Alto firewall, and responding to injected incidents under pressure",
+    highlights: ["Wildcard Qualifier", "Windows Administration", "Palo Alto Firewalls"],
   },
   {
     icon: Flag,
     name: "NCL \u2014 National Cyber League",
-    role: "Individual & Team Competitor",
+    role: "Individual & Team Competito",
     period: "2023 \u2014 Present",
     description:
       "Compete in individual and team-based CTF challenges covering cryptography, log analysis, network forensics, web application exploitation, and OSINT.",
-    highlights: ["Top 15% Individual", "Cryptography", "Log Analysis"],
+    highlights: ["Top 6% Individual", "Cryptography", "Log Analysis", "Forensics"],
   },
   {
-    icon: Target,
-    name: "CTF Competitions",
+    icon: Flag,
+    name: "META CTF",
     role: "Team Player",
     period: "2023 \u2014 Present",
     description:
