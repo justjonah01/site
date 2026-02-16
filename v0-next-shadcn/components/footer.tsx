@@ -1,5 +1,5 @@
  export function Footer() {
-  return (" ")
+  return null
    /*
     <footer className="pb-12 text-sm leading-relaxed text-muted-foreground">
       <p>
@@ -34,5 +34,4 @@
       </p>
     </footer>
     */
-  )
 }
