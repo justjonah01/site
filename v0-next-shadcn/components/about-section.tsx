@@ -6,17 +6,15 @@ export function AboutSection() {
       </h3>
       <div className="flex flex-col gap-4 leading-relaxed text-muted-foreground">
         <p>
-          {"I\u2019m a cybersecurity and networking student with a passion for understanding how systems communicate \u2014 and how to keep those communications secure. My journey started with curiosity about how networks are built, then evolved into a drive to protect them from threats."}
+          {"I\u2019m a Computer Science student with a passion for understanding how systems communicate \u2014 and keeping those communications secure."}
         </p>
         <p>
-          {"Today, I split my time between "}
-          <span className="font-medium text-foreground">cyber defense competitions</span>
+          {"I typically spent my time taking on "}
+          <span className="font-medium text-foreground">cybersecurity competitions</span>
           {", pursuing "}
           <span className="font-medium text-foreground">industry certifications</span>
-          {", and building security and networking tools. My focus areas span "}
+          {", and honing security and networking skills. My focus areas span "}
           <span className="font-medium text-foreground">network architecture</span>
-          {", "}
-          <span className="font-medium text-foreground">infrastructure defense</span>
           {", "}
           <span className="font-medium text-foreground">incident response</span>
           {", and "}
@@ -24,7 +22,7 @@ export function AboutSection() {
           {"."}
         </p>
         <p>
-          {"When I\u2019m not hardening firewalls, configuring VLANs, or studying for certs, you can find me in CTF challenges, mentoring other students, or diving into the latest threat intelligence reports."}
+          {"When I\u2019m not doing the above, you can find me at the gym, tinkering in my homelab, or playing D&D with my friends!"}
         </p>
       </div>
     </section>
