@@ -14,7 +14,7 @@ const competitions = [
   {
     icon: Flag,
     name: "NCL \u2014 National Cyber League",
-    role: "Individual & Team Competito",
+    role: "Individual & Team Competitor",
     period: "2023 \u2014 Present",
     description:
       "Compete in individual and team-based CTF challenges covering cryptography, log analysis, network forensics, web application exploitation, and OSINT.",
