@@ -6,4 +6,4 @@ const nextConfig = {
   assetPrefix: '/site/',
 };
 
-module.exports = nextConfig;
+export default nextConfig;
