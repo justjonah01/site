@@ -4,7 +4,7 @@ const experiences = [
   {
     period: "Dec 2025 \u2014 Present",
     title: "System Services Co-Op",
-    org: "Enterprise IT Team",
+    org: "Samtec",
     description:
       "Assisted with the deployment of application across company devices through SCCM/Intune. Also collaborated with other teams such as NetOps and Facilities.",
     tags: ["Microsoft Azure", "Proofpoint", "Intune", "SCCM", "Rapid 7"],
