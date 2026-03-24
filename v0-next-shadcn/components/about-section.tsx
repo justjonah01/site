@@ -13,7 +13,7 @@ export function AboutSection() {
           <span className="font-medium text-foreground">cybersecurity competitions</span>
           {", pursuing "}
           <span className="font-medium text-foreground">industry certifications</span>
-          {", and honing security and networking skills. My focus areas span "}
+          {", and honing my security and networking skills. My focus areas span "}
           <span className="font-medium text-foreground">network architecture</span>
           {", "}
           <span className="font-medium text-foreground">incident response</span>
