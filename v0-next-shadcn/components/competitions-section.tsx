@@ -6,7 +6,7 @@ const competitions = [
     icon: Trophy,
     name: "CCDC \u2014 Collegiate Cyber Defense Competition",
     role: "Team Captain / Blue Team",
-    period: "2024 \u2014 Present",
+    period: "2024 \u2014 2026",
     description:
       "Competed in many CCDC events defending enterprise networks against live red team attackers. Responsible for hardening Windows servers, monitoring a Palo Alto firewall, and responding to injected incidents under pressure",
     highlights: ["Wildcard Qualifier", "Windows Administration", "Palo Alto Firewalls"],
@@ -15,16 +15,16 @@ const competitions = [
     icon: Flag,
     name: "NCL \u2014 National Cyber League",
     role: "Individual & Team Competitor",
-    period: "2023 \u2014 Present",
+    period: "2023 \u2014 2025",
     description:
       "Compete in individual and team-based CTF challenges covering cryptography, log analysis, network forensics, web application exploitation, and OSINT.",
-    highlights: ["Top 6% Individual", "Cryptography", "Log Analysis", "Forensics"],
+    highlights: ["Top 6% Individual", "Cryptography", "Log Analysis", "Web Application Security"],
   },
   {
     icon: Flag,
     name: "META CTF",
     role: "Team Player",
-    period: "2023 \u2014 Present",
+    period: "2024 \u2014 Present",
     description:
       "Regularly participate in Capture the Flag events including PicoCTF, HackTheBox CTFs, and university-hosted events. Focus areas include reverse engineering, binary exploitation, and web challenges.",
     highlights: ["PicoCTF", "HackTheBox", "Web Exploitation"],
