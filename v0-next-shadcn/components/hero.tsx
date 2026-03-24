@@ -35,7 +35,6 @@ export function Hero() {
         <h2 className="mt-3 text-lg font-medium tracking-tight text-primary sm:text-xl font-mono">
           {"Cybersecurity Student"}
         </h2>
-        /*
         <p className="mt-4 max-w-xs leading-relaxed text-muted-foreground">
           {"Securing infrastructure, architecting networks, and building a more resilient digital future \u2014 one packet at a time."}
         </p>
