@@ -3,14 +3,14 @@ import { CheckCircle2, Clock, Lock } from "lucide-react"
 const certifications = [
   {
     name: "CompTIA Security+",
-    status: "in-progress" as const,
-    date: "In Progress",
+    status: "earned" as const,
+    date: "Earned",
     description: "Foundation-level cybersecurity certification covering threat management, cryptography, identity management, and security infrastructure.",
   },
   {
     name: "Cisco CCNA",
-    status: "planned" as const,
-    date: "Planned \u2014 2026",
+    status: "in-progress" as const,
+    date: "In Progress",
     description: "Industry-standard networking certification covering routing, switching, VLANs, subnetting, network automation, and enterprise infrastructure.",
   },
   /*
