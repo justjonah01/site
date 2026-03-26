@@ -8,7 +8,7 @@ const certifications = [
     description: "Foundation-level cybersecurity certification covering threat management, cryptography, identity management, and security infrastructure.",
   },
   {
-    name: "Cisco CCNA",
+    name: "Cisco Certified Network Associate",
     status: "in-progress" as const,
     date: "In Progress",
     description: "Industry-standard networking certification covering routing, switching, VLANs, subnetting, network automation, and enterprise infrastructure.",
