@@ -1,16 +1,16 @@
 import { Badge } from "@/components/ui/badge"
 
 const experiences = [
-  /*
+  
   {
     period: "June 2026 \u2014 Present",
     title: "Assistant Network Administrator",
     org: "Louis T. Roth & Co.",
     description:
-      "Assisted with the deployment of application across company devices through SCCM/Intune. Also collaborated with other teams such as NetOps and Facilities.",
+      "Wore many hats such as a Network Admin, Jr. Systems Engineer, and Jr. SOC Analyst.",
     tags: ["Microsoft Azure", "Proofpoint", "Intune", "SCCM", "Rapid 7"],
   },
-  */
+
   {
     period: "Dec 2025 \u2014 May 2026",
     title: "System Services Co-Op",
